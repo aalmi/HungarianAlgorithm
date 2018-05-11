@@ -17,6 +17,8 @@ Col0 => Row2 (30)
 Col1 => Row1 (60)
 Col2 => Row0 (20)
 Col3 => Row3 (40)
+
+Total: 150
 ```
 
 ## Usage
