@@ -31,7 +31,7 @@ int[][] dataMatrix = {
 HungarianAlgorithm ha = new HungarianAlgorithm(dataMatrix);
 int[][] assignment = ha.findOptimalAssignment();
 ```
-The results are returned as a two-dimensional array:
+The results are returned as a two-dimensional array where each subarray represents an assignment. The first element of each assignment represents the column number, and the second element represents the row number of the ```dataMatrix```.
 ```
 {{0, 2},
  {1, 1},
