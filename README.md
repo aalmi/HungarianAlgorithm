@@ -33,10 +33,8 @@ int[][] assignment = ha.findOptimalAssignment();
 ```
 The results are returned as a two-dimensional array:
 ```
-{
-  {0, 2},
-  {1, 1},
-  {2, 0},
-  {3, 3}
-}
+{{0, 2},
+ {1, 1},
+ {2, 0},
+ {3, 3}}
 ```
